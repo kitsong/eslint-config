@@ -1,5 +1,5 @@
 {
-  "extends": "@antfu",
+  "extends": "@kit-repo",
   "plugins": [
     "antfu"
   ]
